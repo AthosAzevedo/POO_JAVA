@@ -1,6 +1,8 @@
-package Herança;
+package Herança.aula06;
 
-public class Professor extends Pessoa{
+import Herança.aula06.Pessoa;
+
+public class Professor extends Pessoa {
     private String especialidade;
     private float salario;
 

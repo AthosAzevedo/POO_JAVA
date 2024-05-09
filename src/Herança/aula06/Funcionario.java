@@ -1,6 +1,6 @@
-package Herança;
+package Herança.aula06;
 
-public class Funcionario extends Pessoa{
+public class Funcionario extends Pessoa {
     private String setor;
     private boolean trabalhando;
 

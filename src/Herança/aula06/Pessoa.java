@@ -1,4 +1,4 @@
-package Herança;
+package Herança.aula06;
 
 public class Pessoa {
     private String nome;
@@ -10,7 +10,7 @@ public class Pessoa {
     }
 
     @Override
-    public String toString() {
+    public String   toString() {
         return "Pessoa{" +
                 "nome='" + nome + '\'' +
                 ", idade=" + idade +

@@ -1,4 +1,4 @@
-package Herança;
+package Herança.aula06;
 
 public class Aluno extends Pessoa {
     private int matricula;
